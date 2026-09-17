@@ -1,4 +1,3 @@
-# tutorial1Solution
 //this line prints "hello!" to the debug console
 console.log("hello!");
 
